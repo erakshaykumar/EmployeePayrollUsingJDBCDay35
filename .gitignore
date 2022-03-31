@@ -1,0 +1,13 @@
+# Project exclude paths
+/.gradle/
+/build/
+/build/classes/java/main/
+/build/classes/java/test/
+.idea/
+build.gradle
+gradle/
+gradlew
+gradlew.bat
+        #payroll-file.txt
+settings.gradle
+
